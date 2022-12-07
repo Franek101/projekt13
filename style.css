@@ -1,0 +1,102 @@
+body
+{
+    background-image: url("elo.jpg");
+    z-index: 0;
+}
+.corpus
+{
+    align-content: center;
+    background-color: whitesmoke;
+    z-index: 2;
+    width: 60%;
+    position: relative;
+    text-align: center;
+    left: 20%;
+    right: 20%;
+    height: 90%;
+}
+h1
+{
+    font-size: 100px;
+    font-family: Comic Sans MS;
+}
+#lol
+{
+    height: 100px;
+    width: 300px;
+    font-size: 55px;
+    background-color: rgb(97, 7, 7);
+    border-radius: 20px;
+    color: whitesmoke;
+    font-family: Comic Sans MS;
+
+}
+#loll
+{
+    height: 100px;
+    width:300px;
+    font-size: 55px;
+    background-color: rgb(97, 7, 7);
+    border-radius: 20px;
+    color: whitesmoke;
+    font-family: Comic Sans MS;
+
+}
+.lolll
+{
+    height: 100px;
+    width:500px;
+    font-size: 55px;
+    background-color: rgb(97, 7, 7);
+    border-radius: 20px;
+    color: whitesmoke;
+    font-family: Comic Sans MS;
+
+}
+#pop
+{
+    
+    height: 150px;
+    width: 240px;
+    font-size: 45px;
+    background-color: rgb(97, 7, 7);
+    border-radius: 20px;
+    color: whitesmoke;
+    font-family: Comic Sans MS;
+
+}
+#lularz
+{
+outline-color:rgb(97, 7, 7) ;
+background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 80px;
+  transition: width 0.4s ease-in-out;
+  border: none;
+  border-bottom: 2px solid rgb(97, 7, 7);
+  background-color: ;
+  height: 30px;
+}
+#lularz:focus
+{
+    width: 200px;
+    border: none;
+    border-bottom: 2px solid rgb(97, 7, 7);
+    outline: none;
+    background-color: rgba(97, 7, 7, 0.377);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
